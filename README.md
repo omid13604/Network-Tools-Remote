@@ -1,9 +1,9 @@
 # Network-Tools-Remote
 Network Tools Remote For Network Admins
-<p align="center">
-  ![GitHub Logo](/1.PNG)
-</p>
 
+<p align="center">
+  <img width="460" height="300" src="![GitHub Logo](/1.PNG)">
+</p>
 ![GitHub Logo](/1.PNG)
 
 ![GitHub Logo](/2.PNG)
