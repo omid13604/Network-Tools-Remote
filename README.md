@@ -1,5 +1,5 @@
 # Network-Tools-Remote
-Network Tools Remote For Network Admins
+Network Tools Remote For Network Admins (Windows Clent)
 
 <p align="center">
   <img src="https://github.com/omid13604/Network-Tools-Remote/blob/master/1.PNG" width="512" title="ScreenShot1">
